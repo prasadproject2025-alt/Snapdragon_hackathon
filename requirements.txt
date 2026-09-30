@@ -1,0 +1,8 @@
+onnxruntime-qnn
+qai-hub-models
+numpy
+sounddevice
+opencv-python
+easyocr
+sentence-transformers
+gradio
